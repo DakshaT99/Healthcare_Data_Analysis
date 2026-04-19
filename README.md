@@ -15,6 +15,9 @@ This healthcare data dashboard provides a multi-dimensional look at patient demo
 
 # Data Exploration
 
+<img width="1719" height="639" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/a1080407-5ea6-4a44-9215-fdbcf9640333" />
+
+
 1. Hospital Charges (Financial Statistics)
    
 This section summarizes the cost distribution for all 2,335 customers:
